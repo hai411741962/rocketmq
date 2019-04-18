@@ -4,26 +4,26 @@
 [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
 **[Apache RocketMQ](https://rocketmq.apache.org) is a distributed messaging and streaming platform with low latency, high performance and reliability, trillion-level capacity and flexible scalability.**
+Apache RocketMQ是一个分布式消息传递和流媒体平台，具有低延迟，高性能和可靠性，万亿级容量和灵活的可扩展性。
 
-It offers a variety of features:
+它提供了多种功能：
 
-* Pub/Sub messaging model
-* Scheduled message delivery
-* Message retroactivity by time or offset
-* Log hub for streaming
-* Big data integration
-* Reliable FIFO and strict ordered messaging in the same queue
-* Efficient pull&push consumption model
-* Million-level message accumulation capacity in a single queue
-* Multiple messaging protocols like JMS and OpenMessaging
-* Flexible distributed scale-out deployment architecture
-* Lightning-fast batch message exchange system
-* Various message filter mechanics such as SQL and Tag
-* Docker images for isolated testing and cloud isolated clusters
-* Feature-rich administrative dashboard for configuration, metrics and monitoring
-* Access control list
-* Message trace
-
+发布/订阅消息模型
+预定的消息传递
+消息追溯性按时间或偏移量
+记录流媒体的中心
+大数据集成
+可靠的FIFO和严格的有序消息传递在同一队列中
+高效的推拉消费模式
+单个队列中的百万级消息累积容量
+多种消息传递协议，如JMS和OpenMessaging
+灵活的分布式横向扩展部署架构
+Lightning-fast批处理消息交换系统
+各种消息过滤器机制，如SQL和Tag
+Docker图像用于隔离测试和云隔离集群
+功能丰富的管理仪表板，用于配置，指标和监控
+访问控制列表
+消息跟踪
 
 ----------
 
